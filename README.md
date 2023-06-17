@@ -1,4 +1,5 @@
 ## Jogo de Adivinhação
+##### *por: Samuel Couto*
 
 Vamos criar um jogo de adivinhação!
 
